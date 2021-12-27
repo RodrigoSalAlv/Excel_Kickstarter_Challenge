@@ -9,6 +9,7 @@ In both analysis you need to now exactly what are you looking for or what are th
 
 ### Analysis of Outcomes Based on Launch Date
 The first analysis can be made by using a pivot table, the new excel versions split the dates by month and is no necessary to get a new column extracting this information so that was very helpful. However a column with the year was necessary to get a filter and see the behavior of each year.
+
 ![image](https://user-images.githubusercontent.com/96214489/147415127-19733c5e-af8e-4503-93ca-aa0c6ff4c1f3.png)
 
 
