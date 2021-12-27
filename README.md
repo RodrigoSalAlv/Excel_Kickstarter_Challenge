@@ -29,6 +29,7 @@ The second analysis was challening by the use of the formula "=COUNTIF()" this o
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 For the category of Theater along the months in multiples years we can see that the month with more successfull is May, one of the reason behind this result could be that for all the countries we have in our dataset, the most "shows" are in the countries of US, GB and CA where in May almost start the "summer" considered as the season when you can do more things outdoors. Another peaks we can see is in February and October, the successful of the shows could be thanks to "Valentines Day's" and the "Halloween Season" respectively.
 
 In the "Failed" shows we can see the almost the same tendency as the "Successful" ones, there is more probabilty to get more "failed" shows when launch more than when you're not. However we can see that by the months of May, June, July and August we get a flat tendency almost getting the same quantity of shows canceled each month, the country with the most "Failed" shows in this months was US.
@@ -36,12 +37,15 @@ In the "Failed" shows we can see the almost the same tendency as the "Successful
 For the "Canceled" ones we can see a very few of them along the year, January is the month with most shows canceled. Many of them with a very high goal.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The graph shows that the outcome of all shows directly depends in the goal for each one, we can see a tendency of reduction in "successful" and an increase in "failed"  when the goal is higher. This could tell us that perhaps the goal for some plays could be very high and unreachable
 Also we can see a slight rebound in "successful" plays between $35000 and $45000 but they are just a few ones (6) from a total of 9 plays with this goals.
 
 - What are some limitations of this dataset?
+
 The limitations of this dataset is that it is only a sample, there's so much more information to see, we can only do a few analysis with the data we have. This info could increase so much more.
 - What are some other possible tables and/or graphs that we could create?
+
 We also can create a table and graphs of:
   The countries with the higher and lower quantity of successful, failed and canceled shows
   The quantity of shows with the higher incomes.
